@@ -1,0 +1,32 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.programandoenjava</groupId>
+        <artifactId>curso_internedio_java</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <artifactId>06-servlets</artifactId>
+    <packaging>pom</packaging>
+    <name>tema6</name>
+    <url>https://maven.apache.org</url>
+    <modules>
+        <module>leccion1_6</module>
+        <module>leccion2_6</module>
+        <module>leccion3_6</module>
+        <module>leccion4_6</module>
+        <module>leccion5_6</module>
+        <module>leccion6_6</module>
+        <module>leccion8_6</module>
+        <module>leccion7_6</module>
+        <module>leccion9_6</module>
+    </modules>
+    <dependencies>
+        <dependency>
+            <groupId>jakarta.servlet</groupId>
+            <artifactId>jakarta.servlet-api</artifactId>
+            <version>6.1.0</version>
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
+</project>
