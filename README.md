@@ -5,7 +5,9 @@
 Este curso está diseñado para quienes ya dominan lo básico de Java y quieren llevar sus habilidades al siguiente nivel 🚀
 
 🔗 [Accede al curso completo aquí](https://programandoenjava.com/cursos/)
+
 📅 Lanzamiento: **17 de abril de 2025**  
+
 💰 Precio: **9,99€ durante la primera semana** (después 12,99€)
 
 ---
@@ -78,7 +80,9 @@ Cada carpeta contiene los ejemplos y ejercicios correspondientes a cada módulo.
 ## 🧑‍💻 Sobre el autor
 
 Este curso ha sido creado por **Ricardo**, para [Programando En Java](https://www.youtube.com/channel/UC9NOIj8jphmaPLEa2ufG_hA/) y creador de contenido en YouTube.
+
 🎥 Canal con miles de devs aprendiendo cada semana.
+
 💬 Mentorías 1:1 disponibles [aquí](https://programandoenjava.com/mentoria/).
 
 ---
