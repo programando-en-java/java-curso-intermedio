@@ -1,0 +1,23 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.programandoenjava</groupId>
+        <artifactId>curso_internedio_java</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <artifactId>01-poo-avanzado</artifactId>
+    <packaging>pom</packaging>
+    <name>tema1</name>
+    <url>https://maven.apache.org</url>
+    <modules>
+        <module>leccion1_1</module>
+        <module>leccion2_1</module>
+        <module>leccion3_1</module>
+        <module>leccion4_1</module>
+        <module>leccion5_1</module>
+        <module>leccion6_1</module>
+        <module>leccion7_1</module>
+        <module>leccion8_1</module>
+    </modules>
+</project>

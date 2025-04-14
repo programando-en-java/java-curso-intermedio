@@ -14,11 +14,11 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
     <modules>
-        <module>tema1</module>
-        <module>tema2</module>
-        <module>tema3</module>
-        <module>tema4</module>
-        <module>tema5</module>
-        <module>tema6</module>
+        <module>01-poo-avanzado</module>
+        <module>02-colecciones-genericos</module>
+        <module>03-concurrencia</module>
+        <module>04-io</module>
+        <module>05-jdbc</module>
+        <module>06-servlets</module>
     </modules>
 </project>
