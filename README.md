@@ -8,8 +8,6 @@ Este curso está diseñado para quienes ya dominan lo básico de Java y quieren 
 
 📅 Lanzamiento: **17 de abril de 2025**  
 
-💰 Precio: **9,99€ durante la primera semana** (después 12,99€)
-
 ---
 
 ## 📚 Contenido del Curso
