@@ -4,7 +4,7 @@
 ¡Bienvenido al repositorio oficial del **Curso de Java Intermedio**!  
 Este curso está diseñado para quienes ya dominan lo básico de Java y quieren llevar sus habilidades al siguiente nivel 🚀
 
-🔗 [Accede al curso completo aquí](https://programandoenjava.com/cursos/)
+🔗 [Accede al curso completo aquí](https://www.codeja.dev/courses/curso-de-java-java-intermedio)
 
 📅 Lanzamiento: **17 de abril de 2025**  
 
