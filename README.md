@@ -80,7 +80,7 @@ Este curso ha sido creado por **Ricardo**, para [Programando En Java](https://ww
 
 ## 📩 ¿Dudas o feedback?
 
-Puedes abrir un [issue](https://github.com/programando-en-java/java-intermedio/issues) o escribirme directamente en [Twitter]([https://twitter.com/ProgEnJava](https://x.com/ProgEnJava)).
+Puedes abrir un [issue](https://github.com/programando-en-java/java-curso-intermedio/issues) o escribirme directamente en [Twitter](https://x.com/ProgEnJava).
 
 ---
 
