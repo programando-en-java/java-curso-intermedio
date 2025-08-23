@@ -52,13 +52,6 @@ Este curso está diseñado para quienes ya dominan lo básico de Java y quieren 
 
 ---
 
-## 🧪 Proyecto Final
-
-Al completar el curso tendrás que desarrollar un **proyecto práctico** donde aplicarás todos los conceptos aprendidos.  
-🎓 Si lo entregas, lo revisaré personalmente y te entregaré un **certificado firmado** 💼
-
----
-
 ## 📁 Estructura del repositorio
 
 ```bash
@@ -81,13 +74,13 @@ Este curso ha sido creado por **Ricardo**, para [Programando En Java](https://ww
 
 🎥 Canal con miles de devs aprendiendo cada semana.
 
-💬 Mentorías 1:1 disponibles [aquí](https://programandoenjava.com/mentoria/).
+💬 Mentorías 1:1 disponibles [aquí](https://junior-a-senior.programandoenjava.com/).
 
 ---
 
 ## 📩 ¿Dudas o feedback?
 
-Puedes abrir un [issue](https://github.com/tuusuario/java-intermedio/issues) o escribirme directamente en [Twitter]([https://twitter.com/tuusuario](https://x.com/ProgEnJava)).
+Puedes abrir un [issue](https://github.com/programando-en-java/java-intermedio/issues) o escribirme directamente en [Twitter]([https://twitter.com/ProgEnJava](https://x.com/ProgEnJava)).
 
 ---
 
